@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "王",
+    "phone": "18539511978",
+    "password": "20020909abc./",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "a276ead0ee1248b8a330de51d78c203d9451",
+    "randomLocation": true,
+    "address": "北京市海淀区中关村南大街31号",
+    "longitude": "116.32431",
+    "latitude": "39.94754",
+    "pushKey": "5ce9c72ca9074af0989134ce114c612d"
+  }
+]
